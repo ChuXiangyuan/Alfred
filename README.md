@@ -27,7 +27,7 @@
 - 作者：[@yoution](https://github.com/yourtion/Alfred_NumToCny)
 - 报销时，需要在报销单时报销金额的大写数字，很头疼，这个workflow通过输入数字直接显示对应大写数字。
 
-![](ScreenShot/人民币金额大写.jpg)
+![](ScreenShot/人民币金额大写.JPG)
 
 ##App Store搜索
 - 作者：[@yisiqi](https://github.com/yisiqi/alfred2-workflow-appstore)
