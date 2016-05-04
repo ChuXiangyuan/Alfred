@@ -36,7 +36,8 @@
 ##网易云音乐搜索
 - 作者：[@goodbest](https://www.v2ex.com/t/161258)
 - 快速搜索网易云音乐中的歌曲、专辑、歌手等。
-![](https://raw.githubusercontent.com/ChuXiangyuan/Alfred/master/Workflow/网易云音乐搜索/ScreenShot.jpg)
+![ScreenShot](media/ScreenShot.jpg)
+
 未完待续...
 
 
