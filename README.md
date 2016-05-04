@@ -31,7 +31,12 @@
 ##App Store搜索
 - 作者：[@yisiqi](https://github.com/yisiqi/alfred2-workflow-appstore)
 - 快速搜索iTunes Store 和 App Store 中的应用，显示基本应用信息，可跳转至应用详情页。
+![](https://github.com/ChuXiangyuan/Alfred/Workflow/App Store搜索/SceenShot.png)
 
+##网易云音乐搜索
+- 作者：[@goodbest](https://www.v2ex.com/t/161258)
+- 快速搜索网易云音乐中的歌曲、专辑、歌手等。
+![](https://github.com/ChuXiangyuan/Alfred/Workflow/网易云音乐搜索/ScreenShot.jpg)
 未完待续...
 
 
